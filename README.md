@@ -12,6 +12,14 @@ Under the situation of pandemics, these PODs play vital roles in improving publi
 
 This project aims to formulate a facility location model, which helps pick a list of PODs from the candidate sites. Our model has two objectives: 1) minimizing the total travel distance and cost. 2)minimizing the maximum travel distance and cost. To illustrate our model, we would present the model under 3 different scenarios. These scenarios include local outbreak and global spread within Allegheny county.
 
+Mathematical Formulation
+
+Model 1: minimizing total travel distance and cost
+
+
+Model 2: minimizing max distance and cost
+
+
 
 ●	models.ipynb:
 
