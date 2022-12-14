@@ -16,6 +16,8 @@ Mathematical Formulation
 
 Model 1: minimizing total travel distance and cost
 
+![model1_formulation](img/model1_formulation.png)
+
 
 Model 2: minimizing max distance and cost
 
