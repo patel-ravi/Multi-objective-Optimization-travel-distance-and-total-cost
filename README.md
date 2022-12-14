@@ -21,6 +21,8 @@ Model 1: minimizing total travel distance and cost
 
 Model 2: minimizing max distance and cost
 
+![model2_formulation](img/model2_formulation.png)
+
 
 
 ●	models.ipynb:
