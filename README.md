@@ -2,7 +2,7 @@
 
 This project simulates a pandemic situation and performs optimization on different combinations of travel distance and costs (by considering various scenarios) using gurobipy library in python.
 
-It was developed as an academic group project for the course 94-867 Decision Analytics for Business and Policy class (Spring, 2022) at CMU.
+It was developed as an academic group project for the course 94-867 Decision Analytics for Business and Policy (Spring, 2022) at CMU.
 
 Team members: Yitian Gong, Ravikumar Patel, Yu Zhong
 
